@@ -1,1 +1,1 @@
-0 1 * * * /bin/greg sync 
+0 1 * * * /usr/bin/greg sync 
